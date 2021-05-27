@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+  img {
+    float : left ;
+  }
+</style>
 
 <p align="center">
   <a href="https://github.com/HeesuKim0203">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HeesuKim0203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="float : left ;"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeesuKim0203&layout=compact&langs_count=8&theme=dracula" style="float : left ;"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HeesuKim0203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeesuKim0203&layout=compact&langs_count=8&theme=dracula" />
   </a>
 </p>
 
