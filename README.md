@@ -1,6 +1,6 @@
 ### KIM HEESU 👋👋👋👋
 
-<!--
+<!--https://github.com/HeesuKim0203/HeesuKim0203/blob/main/README.md
 **HeesuKim0203/HeesuKim0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+[Blog's](https://www.heegublog.com/ja-jp/blog)
