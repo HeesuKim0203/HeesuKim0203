@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[Blog's](https://www.heegublog.com/ja-jp)
+
 <p align="center">
   <a href="https://github.com/HeesuKim0203">
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HeesuKim0203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="float : left ;"/>
   </a>
 </p>
-
-[Blog's](https://www.heegublog.com/ja-jp/blog)
